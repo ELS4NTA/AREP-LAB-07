@@ -105,7 +105,7 @@ La aplicación de autenticación es un servidor que recibe peticiones `HTTPS` en
 
 **CandyApp**
 
-La aplicación de dulces es un servidor que recibe peticiones `HTTPS` en el puerto `6000`. Tiene un certificado `SSL` que le permite recibir las peticiones. El servidor recibe peticiones `GET` en la ruta `/candies`.
+La aplicación de dulces es un servidor que recibe peticiones `HTTPS` en el puerto `4000`. Tiene un certificado `SSL` que le permite recibir las peticiones. El servidor recibe peticiones `GET` en la ruta `/candies`.
 
 ![image](https://github.com/ELS4NTA/AREP-LAB-07/assets/99996670/e2f11edb-23fc-4563-98e1-69ceb8c84a2c)
 
