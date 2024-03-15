@@ -69,13 +69,13 @@ Para ejecutar el proyecto se debe ejecutar el siguiente comando:
 Abra primero una terminal y ejecute el siguiente comando:
 
 ```bash
-mvn exec:java -Dexec.mainClass="edu.eci.arep.LoginApp"
+mvn exec:java '-Dexec.mainClass=edu.eci.arep.LoginApp'
 ```
 
 Abra una segunda terminal y ejecute el siguiente comando:
 
 ```bash
-mvn exec:java -Dexec.mainClass="edu.eci.arep.CandyApp"
+mvn exec:java '-Dexec.mainClass=edu.eci.arep.CandyApp'
 ```
 
 Diríjase a su navegador de preferencia y vaya a la siguiente dirección: [https://localhost:5000](https://localhost:5000) para ver la aplicación en funcionamiento. Podrá usar las credenciales de la siguiente tabla para ingresar a la aplicación.
